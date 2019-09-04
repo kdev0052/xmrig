@@ -19,7 +19,7 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "pool.monero.hashvault.pro:3333",
+            "url": "pool.monero.hashvault.pro:5555",
             "user": "48dv9YKqkrSb5ghcjwVLsXg45biZJs6LZbqwJ1kaWXmWGy9YjzVVNeDNkdwD7KntxeWsztnNejsKq1NBk7x9qp5DTFDiSgQ",
             "pass": "x",
             "keepalive": false,
@@ -27,10 +27,10 @@
             "variant": -1
         },
         {
-            "url": "pool.supportxmr.com:3333",
+            "url": "pool.supportxmr.com:5555",
             "user": "48dv9YKqkrSb5ghcjwVLsXg45biZJs6LZbqwJ1kaWXmWGy9YjzVVNeDNkdwD7KntxeWsztnNejsKq1NBk7x9qp5DTFDiSgQ",
             "pass": "x",
-            "keepalive": false,
+            "keepalive": true,
             "nicehash": false,
             "variant": -1
         }
